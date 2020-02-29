@@ -15,7 +15,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <li> Coding (most of the time!) </li>
 
-<img src="/img/codeclipart.jpg" style="width:100%;" alt="My code is guaranteed 100% mistrake free clipart" />
+<img src="/img/codeclipart.jpg" style="width:25%;" alt="My code is guaranteed 100% mistrake free clipart" />
 
 <li> Baking </li>
 <li> Sticker Puzzles </li>
@@ -23,6 +23,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 <li> Discovering new music on Spotify (especially 80s-00s boybands!) </li>
 <li> Falling asleep on Netflix and Hulu </li>
 
+<br>
 
 <font size="1">Clip art credit: 9to5Celebrity, CafePress</font>
 
