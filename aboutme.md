@@ -3,7 +3,7 @@ layout: page
 title: About me
 bigimg: /img/aboutmebanner2.png
 ---
-petal5
+petal6
 
 <h3> Hello! </h3>
 
@@ -11,7 +11,8 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <h3> Hobbies: </h3>
 
-<div style="list">
+<div class="hobbies">
+   <div style="list">
    <ul>
     <li> Coding (most of the time!) </li>
     <li> Baking </li>
@@ -20,11 +21,8 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
     <li> Discovering new music on Spotify (especially 80s-00s boybands!) </li>
     <li> Falling asleep on Netflix and Hulu </li>
    </ul>
-  </div>
-  
-  
-  <div classstyle="image">
-    <img src="/img/codeclipart.jpg" width="300"/>
+   </div>
+   <div classstyle="image"><img src="/img/codeclipart.jpg" width="300"/></div>
   </div>
 
 
@@ -40,6 +38,11 @@ color: #331132;
 
 .design{
 float: left;
+}
+
+.hobbies{
+display: flex;
+justify-content: center;
 }
 
 .list{
