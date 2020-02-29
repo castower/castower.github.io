@@ -13,7 +13,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 -Coding (most of the time!)
 
-<img src="../img/codeclipart.jpg" style="width:100%;" alt="My code is guaranteed 100% mistrake free clipart" />
+<img src="/img/codeclipart.jpg" style="width:100%;" alt="My code is guaranteed 100% mistrake free clipart" />
 
 -Baking
 -Sticker Puzzles
