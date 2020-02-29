@@ -3,7 +3,7 @@ layout: page
 title: About me
 bigimg: /img/aboutmebanner2.png
 ---
-star
+apple
 <h3> Hello! </h3>
 
 My name is Courtney Stowers and I am a graduate student in the M.S. in Program Evaluation and Data Analytics degree program at Arizona State University.
@@ -12,7 +12,6 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <p>
 <img src="/img/codeclipart.jpg" width="300"/>
-
 <div class="list">
 <ul>
 <li> Coding (most of the time!) </li>
@@ -28,7 +27,9 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <br>
 
+<p>
 <font size="1"> Clip art credit: 9to5Celebrity, [CafePress](https://www.cafepress.com/+funny_computer_programmer_joke_quote_mousepad,749921093) </font>
+</p>
 
 <br>
 
