@@ -5,6 +5,7 @@ bigimg: /img/aboutmebanner2.png
 ---
 
 <div class = "formatting" markdown="1"> 
+
 ### Hello!
 "float: right; margin: 0px 0px 0px 0px;"
 style="position:relative;"
