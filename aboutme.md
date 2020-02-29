@@ -10,7 +10,6 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <h3> Hobbies: </h3>
 
-<p>
 <img src="/img/codeclipart.jpg" width="300"/>
 <div class="list">
 <ul>
@@ -22,14 +21,11 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 <li> Falling asleep on Netflix and Hulu </li>
 </ul>
 </div>
-</p>
 
 
 <br>
 
-<p>
 <font size="1"> Clip art credit: 9to5Celebrity, [CafePress](https://www.cafepress.com/+funny_computer_programmer_joke_quote_mousepad,749921093) </font>
-</p>
 
 <br>
 
