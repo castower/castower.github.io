@@ -3,7 +3,7 @@ layout: page
 title: About me
 bigimg: /img/aboutmebanner2.png
 ---
-petal7
+petal9
 
 <h3> Hello! </h3>
 
@@ -25,8 +25,9 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
    <div classstyle="image"><img src="/img/codeclipart.jpg" width="300"/></div>
   </div>
 
-
-<font size = "1"> Clip art credit: 9to5Celebrity, [CafePress](https://www.cafepress.com/+funny_computer_programmer_joke_quote_mousepad,749921093) </font>
+<div class="tinytext" markdown="1">
+ <p markdown="1"> Clip art credit: 9to5Celebrity, [CafePress](https://www.cafepress.com/+funny_computer_programmer_joke_quote_mousepad,749921093) </p>
+</div>
 
 <br>
 
