@@ -1,8 +1,9 @@
 ---
 layout: page
 title: About me
-bigimg: /img/aboutmebanner.png
+bigimg: /img/aboutmebanner2.png
 ---
+
 
 ### Hello!
 
@@ -15,7 +16,9 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <li> Coding (most of the time!) </li>
 
-<img src="/img/codeclipart.jpg" style="width:25%;" alt="My code is guaranteed 100% mistrake free clipart" />
+<img src="/img/codeclipart.jpg" style="width:25%;" alt="My code is guaranteed 100% mistrake free clipart" width="250" height="250" />
+
+<center> <font size="1"> Clip art credit: 9to5Celebrity, CafePress </font> </center>
 
 <li> Baking </li>
 <li> Sticker Puzzles </li>
@@ -25,13 +28,9 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <br>
 
-<font size="1">Clip art credit: 9to5Celebrity, CafePress</font>
-
----
-
 <br>
 
-</div>
+---
 
 <style>
 
