@@ -14,7 +14,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 src="/img/codeclipart.jpg" alt="My code is guaranteed 100% mistrake free clipart" align="right"/> 
 
 <p>
-<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/codeclipart.jpg" width="100" />
+<img style="float: right; margin: 0px 0px 15px 15px;" src="/img/codeclipart.jpg" width="300" />
 <ul>
 <li> Coding (most of the time!) </li>
 <li> Baking </li>
