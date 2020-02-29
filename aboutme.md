@@ -3,7 +3,6 @@ layout: page
 title: About me
 bigimg: /img/aboutmebanner2.png
 ---
-petal9
 
 <h3> Hello! </h3>
 
