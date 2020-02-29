@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: "CPP 527: Lab 03"
+title: "CPP 527: Github Pages Project"
  
 # Short description of your site
-description: "Website for CPP 527: Data Science II Lab 03 project"
+description: "Website for CPP 527: Data Science II Github Pages project"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -27,7 +27,8 @@ navbar-links:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Get Started: "getstarted"
-    - Assignment: "assignment"
+    - Lab 03 Assignment: "lab03"
+    - R Package Assignment: "rpack"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
