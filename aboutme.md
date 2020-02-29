@@ -45,7 +45,8 @@ color: #331132;
 .link { color: #ff5e6c; 
 }
 
-.img{
+img{
+vertical-align: middle;
 float: right;    
 margin: 0 0 0 15px;
 }
