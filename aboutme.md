@@ -11,7 +11,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 ### Hobbies:
 
-<img class="img" style=src="/img/codeclipart.jpg" width="300"/>
+<img src="/img/codeclipart.jpg" width="300"/>
 
 <ul>
 <li> Coding (most of the time!) </li>
@@ -42,7 +42,7 @@ color: #331132;
 .link { color: #ff5e6c; 
 }
 
-.image{
+.img{
 float: right;    
 margin: 0 0 0 15px;
 }
