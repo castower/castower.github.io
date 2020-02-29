@@ -13,6 +13,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 <img src="/img/codeclipart.jpg" width="300"/>
 
 <div class="list">
+<p>
 <ul>
 <li> Coding (most of the time!) </li>
 <li> Baking </li>
@@ -21,6 +22,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 <li> Discovering new music on Spotify (especially 80s-00s boybands!) </li>
 <li> Falling asleep on Netflix and Hulu </li>
 </ul>
+<p>
 </div>
 
 
@@ -45,7 +47,7 @@ vertical-align: middle;
 float: right;    
 }
 
-.list{
+.list p{
 float: left;
 }
 
