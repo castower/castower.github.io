@@ -13,7 +13,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <div>
 
-<img style=src="/img/codeclipart.jpg" width="300" class="clip"/>
+<img class="img" style=src="/img/codeclipart.jpg" width="300"/>
 
 </div>
 
@@ -46,7 +46,7 @@ color: #331132;
 .link { color: #ff5e6c; 
 }
 
-.clip{
+.image{
 float: right;    
 margin: 0 0 0 15px;
 }
