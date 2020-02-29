@@ -11,8 +11,8 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 ### Hobbies:
 
-<p>
-<img style="float: right; position:relative;" src="/img/codeclipart.jpg" width="300" id="clip" />
+<img style=src="/img/codeclipart.jpg" width="300" id="clip" />
+
 <ul>
 <li> Coding (most of the time!) </li>
 <li> Baking </li>
@@ -21,7 +21,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 <li> Discovering new music on Spotify (especially 80s-00s boybands!) </li>
 <li> Falling asleep on Netflix and Hulu </li>
 </ul>
-</p>
+
 
 
 <br>
