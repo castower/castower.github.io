@@ -4,14 +4,15 @@ title: About me
 bigimg: /img/aboutmebanner2.png
 ---
 
-### Hello!
+<h3> Hello! </h3>
 
 My name is Courtney Stowers and I am a graduate student in the M.S. in Program Evaluation and Data Analytics degree program at Arizona State University.
 
-### Hobbies:
+<h3> Hobbies: </h3>
 
 <img src="/img/codeclipart.jpg" width="300"/>
 
+<p>
 <ul>
 <li> Coding (most of the time!) </li>
 <li> Baking </li>
@@ -20,7 +21,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 <li> Discovering new music on Spotify (especially 80s-00s boybands!) </li>
 <li> Falling asleep on Netflix and Hulu </li>
 </ul>
-
+<p>
 
 
 <br>
@@ -34,7 +35,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <style>
 
-.formatting h3{
+h3{
 color: #331132;
 }
 
