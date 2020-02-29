@@ -16,9 +16,9 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
     <li> Coding (most of the time!) </li>
     <li> Baking </li>
     <li> Sticker Puzzles </li>
-    <li> Children's books </li>
-    <li> Discovering new music on Spotify (especially 80s-00s boybands!) </li>
-    <li> Falling asleep on Netflix and Hulu </li>
+    <li> Reading current events and fiction novels (particularly historical fiction, romance, and children's literature) </li>
+    <li> Discovering new music on Spotify (especially music from 1980s-2010s boybands!) </li>
+    <li> Falling asleep on Netflix and Hulu shows </li>
    </ul>
    </div>
    <div classstyle="image"><img src="/img/codeclipart.jpg" width="300"/></div>
@@ -43,7 +43,7 @@ float: left;
 .hobbies{
 display: flex;
 justify-content: center;
-align-items: center;
+align-items: stretch;
 }
 
 .list{
