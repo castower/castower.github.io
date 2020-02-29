@@ -10,9 +10,8 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <h3> Hobbies: </h3>
 
-<img src="/img/codeclipart.jpg" width="300"/>
-
 <p>
+<img src="/img/codeclipart.jpg" width="300"/>
 <ul>
 <li> Coding (most of the time!) </li>
 <li> Baking </li>
@@ -29,9 +28,6 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 <font size="1"> Clip art credit: 9to5Celebrity, CafePress </font>
 
 <br>
-
-
----
 
 <style>
 
