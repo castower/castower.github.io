@@ -28,7 +28,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <br>
 
-<font size="1"> Clip art credit: 9to5Celebrity, CafePress </font>
+<font size="1"> Clip art credit: 9to5Celebrity, [CafePress](https://www.cafepress.com/+funny_computer_programmer_joke_quote_mousepad,749921093) </font>
 
 <br>
 
