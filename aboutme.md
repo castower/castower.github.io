@@ -16,7 +16,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
     <li> Coding (most of the time!) </li>
     <li> Baking </li>
     <li> Sticker Puzzles </li>
-    <li> Reading (Current events and fiction novels: particularly historical, romance, and children's literature) </li>
+    <li> Reading (current event news articles and fiction novels: particularly historical, romance, and children's literature) </li>
     <li> Discovering new music on Spotify (especially music from 1980s-2010s boybands!) </li>
     <li> Falling asleep on Netflix and Hulu shows </li>
    </ul>
