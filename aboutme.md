@@ -4,7 +4,7 @@ title: About me
 bigimg: /img/aboutmebanner2.png
 ---
 
-<div>
+<div class = "formatting">
  
 ### Hello!
 
@@ -13,7 +13,9 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 ### Hobbies:
 
-<p> <img src="/img/codeclipart.jpg" style="width:100%;" alt="My code is guaranteed 100% mistrake free clipart" width:"250" height:"300" id="clip" /> </p>
+<div class= "clip">
+<p> <img src=".../img/codeclipart.jpg" style="width:100%;" alt="My code is guaranteed 100% mistrake free clipart" width:"250" height:"300"/> </p>
+</div> 
 
 <p style="margin-top: 20px;">
 <ul>
@@ -32,6 +34,8 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 <font size="1"> Clip art credit: 9to5Celebrity, CafePress </font>
 
 <br>
+
+</div>
 
 ---
 
