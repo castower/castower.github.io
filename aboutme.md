@@ -37,13 +37,13 @@ h3{
 color: #331132;
 }
 
-img{
-vertical-align: middle;
-float: left;    
-}
-
 .list p{
 float: left;
+}
+
+img{
+vertical-align: middle;
+float: right;    
 }
 
 .tinytext p{
