@@ -14,7 +14,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 ### Hobbies:
 
 <div class= "clip">
-<p> <img src=".../img/codeclipart.jpg" style="width:100%;" alt="My code is guaranteed 100% mistrake free clipart" width:"250" height:"300"/> </p>
+<p> <img src="/img/codeclipart.jpg" style="width:100%;" alt="My code is guaranteed 100% mistrake free clipart" width:"250" height:"300"/> </p>
 </div> 
 
 <p style="margin-top: 20px;">
