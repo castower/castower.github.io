@@ -10,24 +10,23 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <h3> Hobbies: </h3>
 
-<img src="/img/codeclipart.jpg" width="300"/>
-
-<div class="list" markdown="1">
-<p>
-<ul>
-<li> Coding (most of the time!) </li>
-<li> Baking </li>
-<li> Sticker Puzzles </li>
-<li> Children's books </li>
-<li> Discovering new music on Spotify (especially 80s-00s boybands!) </li>
-<li> Falling asleep on Netflix and Hulu </li>
-</ul>
-<p>
+<div style="display:table">
+  <div class="design" style="display:table-cell; vertical-align:top;">
+   <ul>
+    <li> Coding (most of the time!) </li>
+    <li> Baking </li>
+    <li> Sticker Puzzles </li>
+    <li> Children's books </li>
+    <li> Discovering new music on Spotify (especially 80s-00s boybands!) </li>
+    <li> Falling asleep on Netflix and Hulu </li>
+   </ul>
+  </div>
+  <div classstyle="display:table-cell;">
+    <img src="/img/codeclipart.jpg" width="300"/>
+  </div>
 </div>
 
-<br>
-
-Clip art credit: 9to5Celebrity, [CafePress](https://www.cafepress.com/+funny_computer_programmer_joke_quote_mousepad,749921093)
+<font size = "1"> Clip art credit: 9to5Celebrity, [CafePress](https://www.cafepress.com/+funny_computer_programmer_joke_quote_mousepad,749921093) </font>
 
 <br>
 
@@ -35,6 +34,10 @@ Clip art credit: 9to5Celebrity, [CafePress](https://www.cafepress.com/+funny_com
 
 h3{
 color: #331132;
+}
+
+.design{
+float: left;
 }
 
 .list p{
