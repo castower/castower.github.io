@@ -43,7 +43,7 @@ float: left;
 .hobbies{
 display: flex;
 justify-content: center;
-flex-wrap: nowrap;
+align-items: center;
 }
 
 .list{
