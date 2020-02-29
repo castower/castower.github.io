@@ -16,7 +16,7 @@ Here is the link to [my package repository](https://github.com/castower/montyhal
 
 <h3 markdown="1"> Package Installation Details: </h3>
 
-You can download my package on R via the following script: devtools::install_github( "castower/montyhall" )
+You can download my package on R via the following script: `devtools::install_github( "castower/montyhall" )`
 
 ---
 
