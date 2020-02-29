@@ -23,7 +23,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 <li> Falling asleep on Netflix and Hulu </li>
 </ul>
 </div>
-<p>
+</p>
 
 
 <br>
@@ -43,7 +43,7 @@ color: #331132;
 
 img{
 vertical-align: middle;
-float: left;    
+float: right;    
 }
 
 .list{
