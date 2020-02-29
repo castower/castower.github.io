@@ -3,7 +3,7 @@ layout: page
 title: About me
 bigimg: /img/aboutmebanner2.png
 ---
-petal6
+petal7
 
 <h3> Hello! </h3>
 
@@ -43,6 +43,7 @@ float: left;
 .hobbies{
 display: flex;
 justify-content: center;
+flex-wrap: nowrap;
 }
 
 .list{
