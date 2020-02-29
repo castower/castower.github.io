@@ -41,7 +41,7 @@ color: #331132;
 .link { color: #ff5e6c; 
 }
 
-.clip  {
+.img  {
 float: right;    
 margin: 0 0 0 15px;
 }
