@@ -5,14 +5,14 @@ bigimg: /img/aboutmebanner2.png
 ---
  
 ### Hello!
-
-
+"float: right; margin: 0px 0px 0px 0px;"
+style="position:relative;"
 My name is Courtney Stowers and I am a graduate student in the M.S. in Program Evaluation and Data Analytics degree program at Arizona State University.
 
 ### Hobbies:
 
 <p>
-<img style="float: right; margin: 0px 0px 0px 0px;" src="/img/codeclipart.jpg" width="300" />
+<img style="float: right; position:relative;" src="/img/codeclipart.jpg" width="300" />
 <ul>
 <li> Coding (most of the time!) </li>
 <li> Baking </li>
