@@ -11,6 +11,7 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 <h3> Hobbies: </h3>
 
 <img src="/img/codeclipart.jpg" width="300"/>
+
 <div class="list">
 <ul>
 <li> Coding (most of the time!) </li>
@@ -35,9 +36,6 @@ h3{
 color: #331132;
 }
 
-.link { color: #ff5e6c; 
-}
-
 img{
 vertical-align: middle;
 float: right;    
@@ -45,6 +43,9 @@ float: right;
 
 .list{
 float: left;
+}
+
+.link{ color: #ff5e6c; 
 }
 
 </style>
