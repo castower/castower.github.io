@@ -88,6 +88,11 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
 <a class="gs-button" href="https://github.com/daattali/beautiful-jekyll#readme">Get Started!</a>
 </div> </center>
 
+<br>
+
+<div class="gs-tinytext" markdown="1">
+ <p markdown="1"> Header image credit: meisjedevos, [Pixabay](https://pixabay.com/photos/start-beach-summer-holiday-relax-2465624/) </p>
+</div>
 
 <style>
      
@@ -138,6 +143,10 @@ See how easy that is? I wasn't lying - it really can be done in two minutes.
      text-decoration: none;
      color: white;
      background: #ffaaab;
+}
+
+.gs-tinytext p{
+font-size: xx-small
 }
 
 </style>
