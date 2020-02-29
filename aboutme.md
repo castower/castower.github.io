@@ -58,7 +58,7 @@ justify-content: flex-end;
 }
 
 .tinytext p{
-font-size: 1
+font-size: xx-small
 }
 
 .link{ color: #ff5e6c; 
