@@ -14,12 +14,8 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 <ul>
 
-<li> Coding (most of the time!) </li>
-
-<img src="/img/codeclipart.jpg" style="width:25%;" alt="My code is guaranteed 100% mistrake free clipart" width="250" height="250" />
-
-<center> <font size="1"> Clip art credit: 9to5Celebrity, CafePress </font> </center>
-
+<li> Coding (most of the time!) <img src="/img/codeclipart.jpg" style="width:25%;" alt="My code is guaranteed 100% mistrake free clipart" width="250" height="300" align="right" />
+<font size="1"> Clip art credit: 9to5Celebrity, CafePress </font>
 <li> Baking </li>
 <li> Sticker Puzzles </li>
 <li> Children's books </li>
