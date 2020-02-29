@@ -12,14 +12,19 @@ My name is Courtney Stowers and I am a graduate student in the M.S. in Program E
 
 ### Hobbies:
 
-<ul>
+<p> <img src="/img/codeclipart.jpg" style="width:25%;" alt="My code is guaranteed 100% mistrake free clipart" width="250" height="300" align="right" /> </p>
 
-<li> Coding (most of the time!) <img src="/img/codeclipart.jpg" style="width:25%;" alt="My code is guaranteed 100% mistrake free clipart" width="250" height="300" align="right" /> </li>
+<p>
+<ul>
+<li> Coding (most of the time!) </li>
 <li> Baking </li>
 <li> Sticker Puzzles </li>
 <li> Children's books </li>
 <li> Discovering new music on Spotify (especially 80s-00s boybands!) </li>
 <li> Falling asleep on Netflix and Hulu </li>
+</ul>
+</p>
+
 
 <br>
 
