@@ -24,6 +24,7 @@ navbar-links:
   About Me: "aboutme"
   Resume: "https://castower.github.io/CV/"
   Table Demo: "table-demo"
+  Test: "final-project"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
