@@ -37,7 +37,7 @@ You can easily install all of these packages with the following code:
 
 ## Data
 
-Now that we have our packages installed, the next thing that we need is our dataset. For the purposes of this code-through we are going to be using a dataset of over 5000 movies from IMDB that we will be access from [data.world](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records): https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records
+Now that we have our packages installed, the next thing that we need is our dataset. For the purposes of this code-through we are going to be using a dataset of over 5000 movies from IMDB that we will access from [data.world](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records): https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records
 
 ![](/charts/pic1.png)
 
