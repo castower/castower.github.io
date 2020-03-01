@@ -31,7 +31,7 @@ library( wordcloud2 ) # creates the wordclouds
 
 You can easily install all of these packages with the following code: 
 
-`installed.packages("nameofpackage")`
+`install.packages("nameofpackage")`
 
 ---
 
