@@ -203,7 +203,7 @@ Unsurprisingly(!!) love is the number one most frequently used word followed by 
 
 # Word Clouds
 
-Now that we've previewed our data step-by-step, we can create a wordcloud. We will repeat some of our previous steps in a more automated format using the `tm()` package. If you do not have it installed, once again you can install it via `installed.packages("tm")` 
+Now that we've previewed our data step-by-step, we can create a wordcloud. We will repeat some of our previous steps in a more automated format using the `tm()` package. If you do not have it installed, once again you can install it via `install.packages("tm")` 
 
 
 ```{r}
