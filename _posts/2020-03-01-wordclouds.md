@@ -392,7 +392,7 @@ However, the collective data from both sets of plots clearly displays how some o
 Now that you have created your first wordcloud, I encourage you to try out the features and give it a try yourself! The following links contain tutorials and resources to guide you each step of the way:
 
 
-[Create a word cloud with r](https://towardsdatascience.com/create-a-word-cloud-with-r-bde3e7422e8a)This tutorial from 'towards data science' by Celine Van den Rul served as the inspiration for this code-through and includes great step-by-step details on all of the features of `wordcloud2()` as well as its more basic predecessor `wordcloud()`. Both packages have unique benefits!
+[Create a word cloud with r](https://towardsdatascience.com/create-a-word-cloud-with-r-bde3e7422e8a) This tutorial from 'towards data science' by Celine Van den Rul served as the inspiration for this code-through and includes great step-by-step details on all of the features of `wordcloud2()` as well as its more basic predecessor `wordcloud()`. Both packages have unique benefits!
 
 
 [Wordcloud](https://analyticstraining.com/how-to-create-a-word-cloud-in-r/) 
@@ -403,7 +403,7 @@ This article focuses on the first `wordcloud()` and has lots of great insight.
 The R Graph Gallery has excellent tutorials on various data visualization strategies in R and is a wonderful guide for Wordcloud2.
 
 
-CRAN also has wonderful resources for `WordCloud2()` available for view [here](https://cran.r-project.org/web/packages/wordcloud2/wordcloud2.pdf) in PDF form and [here](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html) in website form.
+CRAN also has wonderful resources for `wordcloud2()` available for view [here](https://cran.r-project.org/web/packages/wordcloud2/wordcloud2.pdf) in PDF form and [here](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html) in website form.
 
 
 [Webshot](https://cran.r-project.org/web/packages/webshot/webshot.pdf) is a neat package that allows us to create static saved images of the ever-changing word clouds that we create.
