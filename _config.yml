@@ -22,6 +22,7 @@ description: "Website for CPP 527: Data Science II Github Pages project"
 navbar-links:
   Home: "https://castower.github.io/"
   About Me: "aboutme"
+  Resume: "https://castower.github.io/CV/"
   Table Demo: "table-demo"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
