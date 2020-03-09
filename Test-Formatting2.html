@@ -1,0 +1,168 @@
+<html>
+
+<head>
+<style type="text/css">
+.inline {
+  background-color: #f7f7f7;
+  border:solid 1px #B0B0B0;
+}
+.error {
+	font-weight: bold;
+	color: #FF0000;
+}
+.warning {
+	font-weight: bold;
+}
+.message {
+	font-style: italic;
+}
+.source, .output, .warning, .error, .message {
+	padding: 0 1em;
+  border:solid 1px #F7F7F7;
+}
+.source {
+  background-color: #f5f5f5;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.hl.num {
+  color: #AF0F91;
+}
+.hl.str {
+  color: #317ECC;
+}
+.hl.com {
+  color: #AD95AF;
+  font-style: italic;
+}
+.hl.opt {
+  color: #000000;
+}
+.hl.std {
+  color: #585858;
+}
+.hl.kwa {
+  color: #295F94;
+  font-weight: bold;
+}
+.hl.kwb {
+  color: #B05A65;
+}
+.hl.kwc {
+  color: #55aa55;
+}
+.hl.kwd {
+  color: #BC5A65;
+  font-weight: bold;
+}
+</style>
+<title>Title</title>
+<p> Courtney Stowers </p>
+<p> Monday, March 9, 2020 </p>
+</head>
+
+<body>
+
+<p>This is an R HTML document. When you click the <b>Knit HTML</b> button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
+
+<div class="chunk" id="unnamed-chunk-1"><div class="rcode"><div class="source"><pre class="knitr r"><span class="hl kwd">library</span><span class="hl std">(knitr)</span>
+<span class="hl kwd">library</span><span class="hl std">(rmdformats)</span>
+<span class="hl kwd">library</span><span class="hl std">(stringr)</span>
+</pre></div>
+</div></div>
+
+<p> My Test:</p>
+
+<div class="chunk" id="unnamed-chunk-2"><div class="rcode"><div class="source"><pre class="knitr r"><span class="hl std">test</span> <span class="hl kwb">&lt;-</span> <span class="hl kwd">c</span><span class="hl std">(</span><span class="hl str">&quot;hello my name is Courtney&quot;</span><span class="hl std">,</span> <span class="hl str">&quot;this is a test&quot;</span><span class="hl std">,</span> <span class="hl str">&quot;100 LANGDON ST MADISON, WI (43.07794869500003,-89.39083342499998)&quot;</span><span class="hl std">,</span> <span class="hl str">&quot;00 N STOUGHTON RD E WASHINGTON AVE MADISON, WI (43.072951239000076,-89.38668964199996)&quot;</span><span class="hl std">)</span>
+</pre></div>
+</div></div>
+
+<div class="chunk" id="unnamed-chunk-3"><div class="rcode"><div class="source"><pre class="knitr r"><span class="hl std">x.split.list</span> <span class="hl kwb">&lt;-</span> <span class="hl kwd">strsplit</span><span class="hl std">( test,</span> <span class="hl str">&quot; &quot;</span> <span class="hl std">)</span>
+<span class="hl std">x.split.list</span>
+</pre></div>
+<div class="output"><pre class="knitr r">## [[1]]
+## [1] &quot;hello&quot;    &quot;my&quot;       &quot;name&quot;     &quot;is&quot;       &quot;Courtney&quot;
+## 
+## [[2]]
+## [1] &quot;this&quot; &quot;is&quot;   &quot;a&quot;    &quot;test&quot;
+## 
+## [[3]]
+## [1] &quot;100&quot;                                   
+## [2] &quot;LANGDON&quot;                               
+## [3] &quot;ST&quot;                                    
+## [4] &quot;MADISON,&quot;                              
+## [5] &quot;WI&quot;                                    
+## [6] &quot;(43.07794869500003,-89.39083342499998)&quot;
+## 
+## [[4]]
+##  [1] &quot;00&quot;                                     
+##  [2] &quot;N&quot;                                      
+##  [3] &quot;STOUGHTON&quot;                              
+##  [4] &quot;RD&quot;                                     
+##  [5] &quot;E&quot;                                      
+##  [6] &quot;WASHINGTON&quot;                             
+##  [7] &quot;AVE&quot;                                    
+##  [8] &quot;MADISON,&quot;                               
+##  [9] &quot;WI&quot;                                     
+## [10] &quot;(43.072951239000076,-89.38668964199996)&quot;
+</pre></div>
+</div></div>
+
+<div class="chunk" id="unnamed-chunk-4"><div class="rcode"><div class="source"><pre class="knitr r"><span class="hl std">x.split</span> <span class="hl kwb">&lt;-</span> <span class="hl std">x.split.list[[</span> <span class="hl num">3</span> <span class="hl std">]]</span>
+<span class="hl std">x.split</span>
+</pre></div>
+<div class="output"><pre class="knitr r">## [1] &quot;100&quot;                                   
+## [2] &quot;LANGDON&quot;                               
+## [3] &quot;ST&quot;                                    
+## [4] &quot;MADISON,&quot;                              
+## [5] &quot;WI&quot;                                    
+## [6] &quot;(43.07794869500003,-89.39083342499998)&quot;
+</pre></div>
+</div></div>
+
+<div class="chunk" id="unnamed-chunk-5"><div class="rcode"><div class="source"><pre class="knitr r"><span class="hl std">new.x</span> <span class="hl kwb">&lt;-</span> <span class="hl std">x.split[ ]</span>  <span class="hl com"># drop first word</span>
+<span class="hl std">new.x</span>
+</pre></div>
+<div class="output"><pre class="knitr r">## [1] &quot;100&quot;                                   
+## [2] &quot;LANGDON&quot;                               
+## [3] &quot;ST&quot;                                    
+## [4] &quot;MADISON,&quot;                              
+## [5] &quot;WI&quot;                                    
+## [6] &quot;(43.07794869500003,-89.39083342499998)&quot;
+</pre></div>
+</div></div>
+
+<div class="chunk" id="unnamed-chunk-6"><div class="rcode"><div class="source"><pre class="knitr r"><span class="hl std">new.line</span> <span class="hl kwb">&lt;-</span> <span class="hl kwd">paste0</span><span class="hl std">( new.x,</span> <span class="hl kwc">collapse</span><span class="hl std">=</span><span class="hl str">&quot; &quot;</span> <span class="hl std">)</span>
+<span class="hl std">new.line</span>
+</pre></div>
+<div class="output"><pre class="knitr r">## [1] &quot;100 LANGDON ST MADISON, WI (43.07794869500003,-89.39083342499998)&quot;
+</pre></div>
+</div></div>
+
+<div class="chunk" id="unnamed-chunk-7"><div class="rcode"><div class="source"><pre class="knitr r"><span class="hl std">x</span> <span class="hl kwb">&lt;-</span> <span class="hl kwd">c</span><span class="hl std">(</span><span class="hl str">&quot;100 LANGDON ST MADISON, WI (43.07794869500003, -89.39083342499998)&quot;</span><span class="hl std">,</span> <span class="hl str">&quot;00 N STOUGHTON RD E WASHINGTON AVE MADISON, WI (43.072951239000076, -89.38668964199996)&quot;</span><span class="hl std">)</span>
+</pre></div>
+</div></div>
+
+<div class="chunk" id="unnamed-chunk-8"><div class="rcode"><div class="source"><pre class="knitr r"><span class="hl std">split1</span> <span class="hl kwb">&lt;-</span> <span class="hl kwd">which</span><span class="hl std">(</span><span class="hl kwd">strsplit</span><span class="hl std">(x,</span> <span class="hl str">&quot;&quot;</span><span class="hl std">)[[</span><span class="hl num">1</span><span class="hl std">]]</span><span class="hl opt">==</span><span class="hl str">&quot;(&quot;</span><span class="hl std">)</span>
+<span class="hl std">split2</span> <span class="hl kwb">&lt;-</span> <span class="hl kwd">which</span><span class="hl std">(</span><span class="hl kwd">strsplit</span><span class="hl std">(x,</span> <span class="hl str">&quot;&quot;</span><span class="hl std">)[[</span><span class="hl num">2</span><span class="hl std">]]</span><span class="hl opt">==</span><span class="hl str">&quot;(&quot;</span><span class="hl std">)</span>
+<span class="hl std">splits</span> <span class="hl kwb">&lt;-</span> <span class="hl kwd">c</span><span class="hl std">(split1, split2)</span>
+</pre></div>
+</div></div>
+
+<div class="chunk" id="unnamed-chunk-9"><div class="rcode"><div class="source"><pre class="knitr r"><span class="hl kwd">substring</span><span class="hl std">(x, splits )</span>
+</pre></div>
+<div class="output"><pre class="knitr r">## [1] &quot;(43.07794869500003, -89.39083342499998)&quot; 
+## [2] &quot;(43.072951239000076, -89.38668964199996)&quot;
+</pre></div>
+</div></div>
+
+
+</body>
+</html>
