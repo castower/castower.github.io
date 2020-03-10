@@ -76,8 +76,6 @@ subtitle: Courtney Stowers | March 9, 2020
     margin-bottom: 1em;
     padding: 20px;
     width: auto;
-    float: left;
-    vertical-align: middle;
 }
 
 .toc_title {
