@@ -97,9 +97,7 @@ subtitle: Courtney Stowers | March 9, 2020
 <center>
 <div id="toc_container">
 <p class="toc_title">Contents</p>
-<ul class="toc_list">
-<li><center><a href="#First_Point_Header">Introduction</a></center></li>
-</ul>
+<p class="toc_list"><center><a href="#First_Point_Header">Introduction</a></center></p>
 </div>
 </center>
 
