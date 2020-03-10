@@ -118,8 +118,8 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 <p class="toc_list"><center><a href="#Fourth_Point_Header">Word Clouds</a></center></p>
 <p class="toc_list"><center><a href="#Fourth_Sub_Point_1">Romance Movies</a></center></p>
 <p class="toc_list"><center><a href="#Fourth_Sub_Point_2">Crime Movies</a></center></p>
-<p class="toc_list"><center><a href="#Fifth_Point_Header">Comparison and Conclusion:</a></center></p>
-<p class="toc_list"><center><a href="#Sixth_Point_Header">Resources:</a></center></p>
+<p class="toc_list"><center><a href="#Fifth_Point_Header">Comparison and Conclusion</a></center></p>
+<p class="toc_list"><center><a href="#Sixth_Point_Header">Resources</a></center></p>
 </div>
 </left>
 
