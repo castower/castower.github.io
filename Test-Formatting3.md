@@ -133,7 +133,7 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 
 <p markdown="1"> You can easily install all of these packages with the following code: </p>
 
-<p markdown="1"> `installed.packages("nameofpackage")` <p/>
+<p markdown="1"> `installed.packages("nameofpackage")` </p>
 
 <hr>
 
