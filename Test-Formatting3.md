@@ -110,8 +110,7 @@ subtitle: Courtney Stowers | March 9, 2020
 <p class="toc_list"><center><a href="#Fourth_Sub_Point_2">Crime Movies</a></center></p>
 <p class="toc_list"><center><a href="#Fifth_Point_Header">Comparison and Conclusion:</a></center></p>
 <p class="toc_list"><center><a href="#Sixth_Point_Header">Resources:</a></center></p>
-</div>
-</left><img style="margin: 50px 50px" src="/img/keywords.jpg" width="225" height="151" alt="Keywords article pic" align="right"/><p> Although data science projects often employ large amounts of numeric data, some projects examine patterns within text and require a different set of tools. In this code-through tutorial, we are going to explore several packages in R that enable researchers to analyze qualitative data sets and discover cool patterns. We are also going to create two word clouds based on movie plot summaries.
+</div></left><img style="margin: 50px 50px" src="/img/keywords.jpg" width="225" height="151" alt="Keywords article pic" align="right"/><p> Although data science projects often employ large amounts of numeric data, some projects examine patterns within text and require a different set of tools. In this code-through tutorial, we are going to explore several packages in R that enable researchers to analyze qualitative data sets and discover cool patterns. We are also going to create two word clouds based on movie plot summaries.
 
 In order to complete this tutorial, you will need access to R or RStudio. If you are not familiar with either of these software or would like a refresher on the basics, check out the first steps of my previous code-through <a href="https://castower.github.io/2020-02-29-waffles/" target="_blank">here</a>. I walk you through the entire set-up process beginning with the software.
 
