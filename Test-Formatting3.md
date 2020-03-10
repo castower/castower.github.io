@@ -1,3 +1,9 @@
+---
+layout: page
+title: Cinema and Clouds
+subtitle: Courtney Stowers | March 9, 2020
+---
+
 <html>
 
 <head>
@@ -80,6 +86,8 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 # Set-Up
 
 ## Library of Packages
+
+[Google](https://www.google.com/)
 
 Before we begin analyzing and our data and creating word clouds, first, we need to load a few packages into our 'library'. Specifically we need the following packages:
 
