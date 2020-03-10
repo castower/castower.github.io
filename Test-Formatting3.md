@@ -1323,7 +1323,7 @@ Now we create a new color pallete and just like that we have a second word cloud
 
 ![](/charts/crimewordcloud.png) </p>
 
-<p>However, the collective data from both sets of plots clearly displays how some of the same keywords can carry very different meanings between genres. We have also learned two methods for processing data: the first method using `grep()`, `grepl()` and `quanteda()` is quite a bit longer than using the `tm()` methods, but it has its perks of letting us see our data at every stage. Similarly `tm()` does not provide as much insight into into textual analysis, but for the purposes of quick projects like the wordclouds, it makes the process much easier!</p>
+<p markdown="1">However, the collective data from both sets of plots clearly displays how some of the same keywords can carry very different meanings between genres. We have also learned two methods for processing data: the first method using `grep()`, `grepl()` and `quanteda()` is quite a bit longer than using the `tm()` methods, but it has its perks of letting us see our data at every stage. Similarly `tm()` does not provide as much insight into into textual analysis, but for the purposes of quick projects like the wordclouds, it makes the process much easier!</p>
 
 <hr>
 
