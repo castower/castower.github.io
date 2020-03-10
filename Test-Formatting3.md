@@ -1,3 +1,9 @@
+---
+layout: page
+title: Cinema and Clouds
+subtitle: Courtney Stowers | March 9, 2020
+---
+
 <html>
 
 <head>
