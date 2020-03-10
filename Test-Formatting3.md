@@ -23,8 +23,7 @@ subtitle: Courtney Stowers | March 9, 2020
 	font-style: italic;
 }
 .source, .output, .warning, .error, .message {
-	padding: 0 1em;
-  border:solid 1px #F7F7F7;
+	padding: 1em;
 }
 .source {
   background-color: #f5f5f5;
@@ -1316,19 +1315,19 @@ Now we create a new color pallete and just like that we have a second word cloud
 
 <h1> Comparison and Conclusion: </h1>
 
-<p markdown="1">Now that we have completed this tutorial, we have been able to discover some similarities in individual words between the two word clouds:
+<p>Now that we have completed this tutorial, we have been able to discover some similarities in individual words between the two word clouds: </p>
 
-#![](/charts/romancewordcloud.png)
+<p markdown="1">
 
-#![](/charts/crimewordcloud.png)
+![](/charts/romancewordcloud.png)
 
-However, the collective data from both sets of plots clearly displays how some of the same keywords can carry very different meanings between genres. We have also learned two methods for processing data: the first method using `grep()`, `grepl()` and `quanteda()` is quite a bit longer than using the `tm()` methods, but it has its perks of letting us see our data at every stage. Similarly `tm()` does not provide as much insight into into textual analysis, but for the purposes of quick projects like the wordclouds, it makes the process much easier!</p>
+![](/charts/crimewordcloud.png) </p>
+
+<p>However, the collective data from both sets of plots clearly displays how some of the same keywords can carry very different meanings between genres. We have also learned two methods for processing data: the first method using `grep()`, `grepl()` and `quanteda()` is quite a bit longer than using the `tm()` methods, but it has its perks of letting us see our data at every stage. Similarly `tm()` does not provide as much insight into into textual analysis, but for the purposes of quick projects like the wordclouds, it makes the process much easier!</p>
 
 <hr>
 
 <h1> Resources </h1>
-
-<p markdown="1">
 
 Now that you have created your first wordcloud, I encourage you to try out the features and give it a try yourself! The following links contain tutorials and resources to guide you each step of the way:
 
@@ -1352,8 +1351,6 @@ CRAN also has wonderful resources for `WordCloud2()` available for view [here](h
 [Coolors](https://coolors.co/) is a great site to find colors for your word cloud palettes.
 
 Last, but certainly not least, [Data.World](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records) is an excellent place to find data on just about any subject and the pre-configured R URL download links are especially helpful! 
-
-</p>
 
 <hr>
 
