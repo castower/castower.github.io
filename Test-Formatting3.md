@@ -103,7 +103,17 @@ subtitle: Courtney Stowers | March 9, 2020
 <div id="toc_container" style="margin: 10px 10px">
 <p class="toc_title">Contents</p>
 <p class="toc_list"><center><a href="#First_Point_Header">Introduction</a></center></p>
-<p class="toc_list"><center><a href="#First_Point_Header">Demo Two</a></center></p>
+<p class="toc_list"><center><a href="#Second_Point_Header">Set-Up</a></center></p>
+<p class="toc_list"><center><a href="#Third_Point_Header">Preview Data</a></center></p>
+<p class="toc_list"><center><a href="#Fourth_Point_Header">Word Clouds</a></center></p>
+<ul>
+<center>
+    <li><a href="#Fourth_Sub_Point_1">Romance Movies</a></li>
+    <li><a href="#Fourth_Sub_Point_2">Crime Movies</a></li>
+</center> 
+</ul>
+<p class="toc_list"><center><a href="#Fifth_Point_Header">Comparison and Conclusion:</a></center></p>
+<p class="toc_list"><center><a href="#Sixth_Point_Header">Resources:</a></center></p>
 </div>
 </left>
 
@@ -115,7 +125,7 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 
 <hr>
 
-<h1> Set-Up </h1>
+<h1 id="Second_Point_Header"> Set-Up </h1>
 
 <h2> Library of Packages </h2>
 
@@ -156,7 +166,7 @@ Next, we will click the download button where we will select the download URL fo
 
 <hr>
 
-<h1> Preview Dataset </h1>
+<h1 id="Third_Point_Header"> Preview Dataset </h1>
 
 <p> A quick peek at the column names of the dataset reveal the various fields available for us to use to explore the 5,000+ movies in the set. </p>
 
