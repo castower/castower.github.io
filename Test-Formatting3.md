@@ -87,7 +87,7 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 
 <h2> Library of Packages </h2>
 
-<p markdown="1>[Google](https://www.google.com/)
+<p markdown="1">[Google](https://www.google.com/)
 
 Before we begin analyzing and our data and creating word clouds, first, we need to load a few packages into our 'library'. Specifically we need the following packages: </p>
 
