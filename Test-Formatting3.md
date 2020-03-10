@@ -141,7 +141,7 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 
 <p markdown="1"> You can easily install all of these packages with the following code: </p>
 
-<p markdown="1"> `installed.packages("nameofpackage")` </p>
+<p markdown="1"> `install.packages("nameofpackage")` </p>
 
 <hr>
 
@@ -961,7 +961,7 @@ Glitter :
 
 <h1 id="Fourth_Point_Header"> Word Clouds </h1>
 
-<p markdown="1">Now that we've previewed our data step-by-step, we can create a wordcloud. We will repeat some of our previous steps in a more automated format using the `tm()` package. If you do not have it installed, once again you can install it via `installed.packages("tm")` </p>
+<p markdown="1">Now that we've previewed our data step-by-step, we can create a wordcloud. We will repeat some of our previous steps in a more automated format using the `tm()` package. If you do not have it installed, once again you can install it via `install.packages("tm")` </p>
 
 <div class="chunk" id="unnamed-chunk-20"><div class="rcode"><div class="source"><pre class="knitr r"><span class="hl kwd">library</span><span class="hl std">(tm)</span>  <span class="hl com"># package for processing text</span>
 </pre></div>
