@@ -81,15 +81,15 @@ In order to complete this tutorial, you will need access to R or RStudio. If you
 
 If you're all set to go with R and RStudio, then proceed below:  </p>
 
-<hr markdown="1">
+<hr>
 
-# Set-Up
+<h1> Set-Up </h1>
 
-## Library of Packages
+<h2> Library of Packages </h2>
 
-[Google](https://www.google.com/)
+<p markdown="1>[Google](https://www.google.com/)
 
-Before we begin analyzing and our data and creating word clouds, first, we need to load a few packages into our 'library'. Specifically we need the following packages:
+Before we begin analyzing and our data and creating word clouds, first, we need to load a few packages into our 'library'. Specifically we need the following packages: </p>
 
 
 <div class="chunk" id="unnamed-chunk-1"><div class="rcode"><div class="source"><pre class="knitr r"><span class="hl kwd">summary</span><span class="hl std">(cars)</span>
