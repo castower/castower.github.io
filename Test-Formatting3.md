@@ -67,16 +67,47 @@ subtitle: Courtney Stowers | March 9, 2020
   color: #BC5A65;
   font-weight: bold;
 }
+
+#toc_container {
+    background: #f9f9f9 none repeat scroll 0 0;
+    border: 1px solid #aaa;
+    display: table;
+    font-size: 95%;
+    margin-bottom: 1em;
+    padding: 20px;
+    width: auto;
+}
+
+.toc_title {
+    font-weight: 700;
+    text-align: center;
+}
+
+#toc_container li, #toc_container ul, #toc_container ul li{
+    list-style: outside none none !important;
+}
 </style>
 <title>Cinema and Clouds</title>
 </head>
 
 
-
-
 <body>
 
-<h1> Introduction </h1>
+<div id="toc_container">
+<p class="toc_title">Contents</p>
+<ul class="toc_list">
+  <li><a href="#First_Point_Header">1 First Point Header</a>
+  <ul>
+    <li><a href="#First_Sub_Point_1">1.1 First Sub Point 1</a></li>
+    <li><a href="#First_Sub_Point_2">1.2 First Sub Point 2</a></li>
+  </ul>
+</li>
+<li><a href="#Second_Point_Header">2 Second Point Header</a></li>
+<li><a href="#Third_Point_Header">3 Third Point Header</a></li>
+</ul>
+</div>
+
+<h1 id="First_Point_Header"> Introduction </h1>
 
 <img style="margin: 50px 50px" src="/img/keywords.jpg" width="225" height="151" alt="Keywords article pic" align="right"/><p> Although data science projects often employ large amounts of numeric data, some projects examine patterns within text and require a different set of tools. In this code-through tutorial, we are going to explore several packages in R that enable researchers to analyze qualitative data sets and discover cool patterns. We are also going to create two word clouds based on movie plot summaries.
 
