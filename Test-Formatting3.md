@@ -1335,10 +1335,10 @@ Now we create a new color pallete and just like that we have a second word cloud
 	
 <ul>
 
-<li markdown="1"> [Create a word cloud with r](https://towardsdatascience.com/create-a-word-cloud-with-r-bde3e7422e8a)This tutorial from 'towards data science' by Celine Van den Rul served as the inspiration for this code-through and includes great step-by-step details on all of the features of `wordcloud2()` as well as its more basic predecessor `wordcloud()`. Both packages have unique benefits! </li>
+<li markdown="1"> [Create a word cloud with r](https://towardsdatascience.com/create-a-word-cloud-with-r-bde3e7422e8a) This tutorial from 'towards data science' by Celine Van den Rul served as the inspiration for this code-through and includes great step-by-step details on all of the features of `wordcloud2()` as well as its more basic predecessor `wordcloud()`. Both packages have unique benefits!
 
 <li markdown="1">[Wordcloud](https://analyticstraining.com/how-to-create-a-word-cloud-in-r/) 
-This article focuses on the first `wordcloud()` and has lots of great insight. </li>
+This article focuses on the first `wordcloud()` and has lots of great insight.
 
 <li markdown="1">[R Graph Gallery: Wordcloud2](https://www.r-graph-gallery.com/196-the-wordcloud2-library.html)
 The R Graph Gallery has excellent tutorials on various data visualization strategies in R and is a wonderful guide for Wordcloud2. </li>
