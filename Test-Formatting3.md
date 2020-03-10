@@ -1327,13 +1327,12 @@ Now we create a new color pallete and just like that we have a second word cloud
 
 <hr>
 
-<h1 markdown="1"> Resources </h1>
+</body>
+</html>
 
-<p> Now that you have created your first wordcloud, I encourage you to try out the features and give it a try yourself! The following links contain tutorials and resources to guide you each step of the way: </p>
+# Resources
 
-<p>
-	
-<ul markdown="1">
+Now that you have created your first wordcloud, I encourage you to try out the features and give it a try yourself! The following links contain tutorials and resources to guide you each step of the way:
 
 -[Create a word cloud with r](https://towardsdatascience.com/create-a-word-cloud-with-r-bde3e7422e8a) This tutorial from 'towards data science' by Celine Van den Rul served as the inspiration for this code-through and includes great step-by-step details on all of the features of `wordcloud2()` as well as its more basic predecessor `wordcloud()`. Both packages have unique benefits!
 
@@ -1357,6 +1356,4 @@ The R Graph Gallery has excellent tutorials on various data visualization strate
 
 This code-through tutorial was created by Courtney Stowers for CPP 527 Data Science 2 in the Master of Science in Program Evaluation and Data Analytics program at Arizona State University. She can be contacted at: courtney.stowers@asu.edu.
 
-<hr>
-</body>
-</html>
+---
