@@ -75,11 +75,11 @@ subtitle: "Courtney Stowers | March 9, 2020"
 
 <h1> Introduction </h1>
 
-<p markdown="1"> Although data science projects often employ large amounts of numeric data, some projects examine patterns within text and require a different set of tools. In this code-through tutorial, we are going to explore several packages in R that enable researchers to analyze qualitative data sets and discovercool patterns. We are also going to create two word clouds based on movie plot summaries.
+<p markdown="1"> Although data science projects often employ large amounts of numeric data, some projects examine patterns within text and require a different set of tools. In this code-through tutorial, we are going to explore several packages in R that enable researchers to analyze qualitative data sets and discovercool patterns. We are also going to create two word clouds based on movie plot summaries. </p>
 
-In order to complete this tutorial, you will need access to R or RStudio. If you are not familiar with either of these software or would like a refresher on the basics, check out the first steps of my previous code-through [here](https://castower.github.io/2020-02-29-waffles/). I walk you through the entire set-up process beginning with the software.
+<p markdown="1"> In order to complete this tutorial, you will need access to R or RStudio. If you are not familiar with either of these software or would like a refresher on the basics, check out the first steps of my previous code-through [here](https://castower.github.io/2020-02-29-waffles/). I walk you through the entire set-up process beginning with the software. </p>
 
-If you're all set to go with R and RStudio, then proceed below:  </p>
+<p> If you're all set to go with R and RStudio, then proceed below:  </p>
 
 <hr>
 
