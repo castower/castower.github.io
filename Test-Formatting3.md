@@ -90,14 +90,11 @@ subtitle: Courtney Stowers | March 9, 2020
 <title>Cinema and Clouds</title>
 </head>
 
-
-<body>
-
 <center>
 <div id="toc_container">
 <p class="toc_title">Contents</p>
 <ul class="toc_list">
-  <li><a href="#First_Point_Header">Introduction</a>
+<li><a href="#First_Point_Header">Introduction</a>
   <ul>
     <li><a href="#First_Sub_Point_1">1.1 First Sub Point 1</a></li>
     <li><a href="#First_Sub_Point_2">1.2 First Sub Point 2</a></li>
@@ -108,6 +105,9 @@ subtitle: Courtney Stowers | March 9, 2020
 </ul>
 </div>
 </center>
+
+
+<body>
 
 <h1 id="First_Point_Header"> Introduction </h1>
 
