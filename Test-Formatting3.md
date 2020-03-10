@@ -77,6 +77,7 @@ subtitle: Courtney Stowers | March 9, 2020
     padding: 20px;
     width: auto;
     float: left;
+    vertical-align: middle;
 }
 
 .toc_title {
@@ -101,7 +102,7 @@ subtitle: Courtney Stowers | March 9, 2020
 <h1 id="First_Point_Header"> Introduction </h1>
 
 <left>
-<div id="toc_container">
+<div id="toc_container" style="margin: 50px 50px">
 <p class="toc_title">Contents</p>
 <p class="toc_list"><center><a href="#First_Point_Header">Introduction</a></center></p>
 <p class="toc_list"><center><a href="#First_Point_Header">Demo Two</a></center></p>
