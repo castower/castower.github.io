@@ -109,7 +109,7 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 
 <hr>
 
-<left>
+<center>
 <div id="toc_container" style="margin: 10px 10px">
 <p class="toc_title">Contents</p>
 <p class="toc_list"><center><a href="#First_Point_Header">Introduction</a></center></p>
@@ -121,7 +121,7 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 <p class="toc_list"><center><a href="#Fifth_Point_Header">Comparison and Conclusion</a></center></p>
 <p class="toc_list"><center><a href="#Sixth_Point_Header">Resources</a></center></p>
 </div>
-</left>
+</center>
 
 <hr>
 
