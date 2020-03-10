@@ -1351,13 +1351,12 @@ The R Graph Gallery has excellent tutorials on various data visualization strate
 
 <li markdown="1">Last, but certainly not least, [Data.World](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records) is an excellent place to find data on just about any subject and the pre-configured R URL download links are especially helpful! 
 
-<hr>
-
-<h1> About The Author </h1>
-
-<p> This code-through tutorial was created by Courtney Stowers for CPP 527 Data Science 2 in the Master of Science in Program Evaluation and Data Analytics program at Arizona State University. She can be contacted at: courtney.stowers@asu.edu. </p>
+</ul>
 
 <hr>
 
-</body>
-</html>
+# About The Author
+
+This code-through tutorial was created by Courtney Stowers for CPP 527 Data Science 2 in the Master of Science in Program Evaluation and Data Analytics program at Arizona State University. She can be contacted at: courtney.stowers@asu.edu.
+
+<hr>
