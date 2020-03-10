@@ -131,19 +131,19 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 </pre></div>
 </div></div>
 
-You can easily install all of these packages with the following code: 
+<p markdown="1"> You can easily install all of these packages with the following code: </p>
 
-`installed.packages("nameofpackage")`
+<p markdown="1"> `installed.packages("nameofpackage")` <p/>
 
 <hr>
 
 <h2> Data </h2>
 
-<p markdown= "1">Now that we have our packages installed, the next thing that we need is our dataset. For the purposes of this code-through we are going to be using a dataset of over 5000 movies from IMDB that we will be access from [data.world](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records): https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records </p>
+<p markdown="1">Now that we have our packages installed, the next thing that we need is our dataset. For the purposes of this code-through we are going to be using a dataset of over 5000 movies from IMDB that we will access from [data.world](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records). </p>
 
 ![](/charts/pic1.png)
 
-<p> We will click the blue `Explore this dataset` button and then scroll down to select the `IMDBdata_MainData.csv` dataset.
+<p markdown="1"> We will click the blue `Explore this dataset` button and then scroll down to select the `IMDBdata_MainData.csv` dataset. 
 
 Next, we will click the download button where we will select the download URL for R. </p>
 
