@@ -1341,19 +1341,15 @@ Now we create a new color pallete and just like that we have a second word cloud
 This article focuses on the first `wordcloud()` and has lots of great insight.
 
 <li markdown="1">[R Graph Gallery: Wordcloud2](https://www.r-graph-gallery.com/196-the-wordcloud2-library.html)
-The R Graph Gallery has excellent tutorials on various data visualization strategies in R and is a wonderful guide for Wordcloud2. </li>
+The R Graph Gallery has excellent tutorials on various data visualization strategies in R and is a wonderful guide for Wordcloud2.
 
-<li markdown="1">CRAN also has wonderful resources for `WordCloud2()` available for view [here](https://cran.r-project.org/web/packages/wordcloud2/wordcloud2.pdf) in PDF form and [here](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html) in website form. </li>
+<li markdown="1">CRAN also has wonderful resources for `WordCloud2()` available for view [here](https://cran.r-project.org/web/packages/wordcloud2/wordcloud2.pdf) in PDF form and [here](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html) in website form.
 
-<li markdown="1">[Webshot](https://cran.r-project.org/web/packages/webshot/webshot.pdf) is a neat package that allows us to create static saved images of the ever-changing word clouds that we create. </li>
+<li markdown="1">[Webshot](https://cran.r-project.org/web/packages/webshot/webshot.pdf) is a neat package that allows us to create static saved images of the ever-changing word clouds that we create.
 
-<li markdown="1">[Coolors](https://coolors.co/) is a great site to find colors for your word cloud palettes.</li>
+<li markdown="1">[Coolors](https://coolors.co/) is a great site to find colors for your word cloud palettes.
 
-<li markdown="1">Last, but certainly not least, [Data.World](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records) is an excellent place to find data on just about any subject and the pre-configured R URL download links are especially helpful! </li>
-
-</ul>
-
-</p>
+<li markdown="1">Last, but certainly not least, [Data.World](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records) is an excellent place to find data on just about any subject and the pre-configured R URL download links are especially helpful! 
 
 <hr>
 
