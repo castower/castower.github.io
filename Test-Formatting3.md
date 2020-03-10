@@ -959,7 +959,7 @@ Glitter :
 
 <hr>
 
-<h1> Word Clouds </h1>
+<h1 id="Fourth_Point_Header"> Word Clouds </h1>
 
 <p markdown="1">Now that we've previewed our data step-by-step, we can create a wordcloud. We will repeat some of our previous steps in a more automated format using the `tm()` package. If you do not have it installed, once again you can install it via `installed.packages("tm")` </p>
 
@@ -1352,7 +1352,7 @@ Now we create a new color pallete and just like that we have a second word cloud
 
 <hr>
 
-<h1> Comparison and Conclusion: </h1>
+<h1 id="Fifth_Point_Header"> Comparison and Conclusion: </h1>
 
 <p>Now that we have completed this tutorial, we have been able to discover some similarities in individual words between the two word clouds: </p>
 
@@ -1369,7 +1369,7 @@ Now we create a new color pallete and just like that we have a second word cloud
 </body>
 </html>
 
-# Resources
+<h1 id="Sixth_Point_Header"> Resources </h1>
 
 Now that you have created your first wordcloud, I encourage you to try out the features and give it a try yourself! The following links contain tutorials and resources to guide you each step of the way:
 
