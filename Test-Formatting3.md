@@ -969,7 +969,7 @@ Glitter :
 
 <hr>
 
-<h2> Romance Movies </h2>
+<h2 id="Fourth_Sub_Point_1"> Romance Movies </h2>
 
 <p> For our first word cloud, we will create a new dataset creating only our plots from romance movies: </p>
 
@@ -1099,7 +1099,7 @@ Content:  documents: 927
 
 <hr>
 
-<h2> Crime Movies </h2>
+<h2 id="Fourth_Sub_Point_2"> Crime Movies </h2>
 
 <p> Finally, for a comparison word cloud, we will create a second data set for crime movies to find out how keywords for this genre differ from romance movies: </p>
 
