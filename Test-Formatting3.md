@@ -99,7 +99,7 @@ subtitle: Courtney Stowers | March 9, 2020
 
 <body>
 
-<center><h1 id="First_Point_Header"> Introduction </h1></center>
+<h1 id="First_Point_Header"> Introduction </h1>
 
 <img style="margin: 50px 50px" src="/img/keywords.jpg" width="225" height="151" alt="Keywords article pic" align="right"/><p> Although data science projects often employ large amounts of numeric data, some projects examine patterns within text and require a different set of tools. In this code-through tutorial, we are going to explore several packages in R that enable researchers to analyze qualitative data sets and discover cool patterns. We are also going to create two word clouds based on movie plot summaries.
 
