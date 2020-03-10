@@ -1354,6 +1354,6 @@ The R Graph Gallery has excellent tutorials on various data visualization strate
 
 # About The Author
 
-This code-through tutorial was created by Courtney Stowers for CPP 527 Data Science 2 in the Master of Science in Program Evaluation and Data Analytics program at Arizona State University. She can be contacted at: courtney.stowers@asu.edu.
+This code-through tutorial was created by Courtney Stowers for CPP 527 Data Science 2 in the Master of Science in Program Evaluation and Data Analytics program at Arizona State University. She can be contacted at: `courtney.stowers@asu.edu`.
 
 ---
