@@ -76,7 +76,7 @@ subtitle: Courtney Stowers | March 9, 2020
 
 <body>
 
-<p markdown="1"> ![](/img/keywords.jpg) </p>
+<center> <p markdown="1"> ![](/img/keywords.jpg) </p> </center>
 
 <h1> Introduction </h1>
 
