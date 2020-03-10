@@ -81,7 +81,7 @@ In order to complete this tutorial, you will need access to R or RStudio. If you
 
 If you're all set to go with R and RStudio, then proceed below:  </p>
 
-<hr>
+<hr markdown="1">
 
 # Set-Up
 
