@@ -97,7 +97,7 @@ subtitle: Courtney Stowers | March 9, 2020
 
 <body>
 
-<h1 id="First_Point_Header"> Introduction </h1>
+<center><h1 id="First_Point_Header"> Introduction </h1></center>
 
 <left>
 <div id="toc_container" style="margin: 10px 10px">
