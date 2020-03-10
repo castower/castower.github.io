@@ -76,6 +76,8 @@ subtitle: Courtney Stowers | March 9, 2020
 
 <body>
 
+<img style="border:5px white;" src="/img/keywords.jpg" width="225" height="151" alt="Keywords article pic" />
+
 <center> <p markdown="1"> ![](/img/keywords.jpg) </p> </center>
 
 <hr>
