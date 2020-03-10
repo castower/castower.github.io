@@ -1,3 +1,9 @@
+---
+layout: page
+title: Cinema and Clouds
+subtitle: Courtney Stowers | March 9, 2020
+---
+
 <html>
 
 <head>
@@ -17,8 +23,7 @@
 	font-style: italic;
 }
 .source, .output, .warning, .error, .message {
-	padding: 0 1em;
-  border:solid 1px #F7F7F7;
+	padding: 1em;
 }
 .source {
   background-color: #f5f5f5;
