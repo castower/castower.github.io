@@ -111,13 +111,13 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 
 <p markdown="1">Now that we have our packages installed, the next thing that we need is our dataset. For the purposes of this code-through we are going to be using a dataset of over 5000 movies from IMDB that we will be access from [data.world](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records). </p>
 
-<p markdown="1"> ![](/charts/pic1.png) </p>
+<p markdown="1">![](/charts/pic1.png) </p>
 
-<p markdown="1"> We will click the blue `Explore this dataset` button and then scroll down to select the `IMDBdata_MainData.csv` dataset.
+<p markdown="1">We will click the blue `Explore this dataset` button and then scroll down to select the `IMDBdata_MainData.csv` dataset.
 
 Next, we will click the download button where we will select the download URL for R. </p>
 
-<p markdown="1"> ![](/charts/pic2.png) </p>
+<p markdown="1">![](/charts/pic2.png)</p>
 
 <p>Data.World provides us with the exact code we need to get started and import our data. Therefore we will copy and paste into a codeblock as follows: </p>
 
