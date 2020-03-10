@@ -1329,30 +1329,45 @@ Now we create a new color pallete and just like that we have a second word cloud
 
 <h1 markdown="1"> Resources </h1>
 
-test
+<p markdown="1">
+
+test this
+
+<br>
 
 Now that you have created your first wordcloud, I encourage you to try out the features and give it a try yourself! The following links contain tutorials and resources to guide you each step of the way:
 
+<br>
 
 [Create a word cloud with r](https://towardsdatascience.com/create-a-word-cloud-with-r-bde3e7422e8a)This tutorial from 'towards data science' by Celine Van den Rul served as the inspiration for this code-through and includes great step-by-step details on all of the features of `wordcloud2()` as well as its more basic predecessor `wordcloud()`. Both packages have unique benefits!
 
+<br>
 
 [Wordcloud](https://analyticstraining.com/how-to-create-a-word-cloud-in-r/) 
 This article focuses on the first `wordcloud()` and has lots of great insight.
 
+<br>
 
 [R Graph Gallery: Wordcloud2](https://www.r-graph-gallery.com/196-the-wordcloud2-library.html)
 The R Graph Gallery has excellent tutorials on various data visualization strategies in R and is a wonderful guide for Wordcloud2.
 
+<br>
 
 CRAN also has wonderful resources for `WordCloud2()` available for view [here](https://cran.r-project.org/web/packages/wordcloud2/wordcloud2.pdf) in PDF form and [here](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html) in website form.
 
+<br>
 
 [Webshot](https://cran.r-project.org/web/packages/webshot/webshot.pdf) is a neat package that allows us to create static saved images of the ever-changing word clouds that we create.
 
+<br>
+
 [Coolors](https://coolors.co/) is a great site to find colors for your word cloud palettes.
 
+<br>
+
 Last, but certainly not least, [Data.World](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records) is an excellent place to find data on just about any subject and the pre-configured R URL download links are especially helpful! 
+
+</p>
 
 <hr>
 
