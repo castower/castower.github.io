@@ -64,3 +64,13 @@ Open Link in new tab format
 <p markdown="1"> [go](http://stackoverflow.com){:target="_blank" rel="noopener"} </p>
 
 <hr>
+
+<h1> Example of image next to text: </h1>
+
+<img style="margin: 50px 50px" src="/img/keywords.jpg" width="225" height="151" alt="Keywords article pic" align="right"/><p> Although data science projects often employ large amounts of numeric data, some projects examine patterns within text and require a different set of tools. In this code-through tutorial, we are going to explore several packages in R that enable researchers to analyze qualitative data sets and discover cool patterns. We are also going to create two word clouds based on movie plot summaries.
+
+In order to complete this tutorial, you will need access to R or RStudio. If you are not familiar with either of these software or would like a refresher on the basics, check out the first steps of my previous code-through <a href="https://castower.github.io/2020-02-29-waffles/" target="_blank">here</a>. I walk you through the entire set-up process beginning with the software.
+
+If you're all set to go with R and RStudio, then proceed below:  </p>
+
+<hr>
