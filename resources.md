@@ -35,7 +35,7 @@ https://www.tipsandtricks-hq.com/simple-table-of-contents-toc-using-pure-html-an
 
 <p markdown="1"> Example:
   <body>
-    `<h1 id="First_Point_Header"> Introduction </h1>`
+    <!-- <h1 id="First_Point_Header"> Introduction </h1> -->
   </body>
  </p>
  
