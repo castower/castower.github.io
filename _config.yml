@@ -25,7 +25,7 @@ navbar-links:
   Resume: "https://castower.github.io/CV/"
   Table Demo: "table-demo"
   Code-Throughs: 
-    - Wordclouds: "Test-Formatting3"
+    - Wordclouds: "wordcloud2"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
