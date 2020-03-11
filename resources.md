@@ -4,4 +4,4 @@ https://www.tipsandtricks-hq.com/simple-table-of-contents-toc-using-pure-html-an
 
 Open Link in new tab format (minus slashes)
 <br>
-[go]/(http://stackoverflow.com)/{:target="_blank" rel="noopener"}
+<p markdown="1"> [go](http://stackoverflow.com){:target="_blank" rel="noopener"} </p>
