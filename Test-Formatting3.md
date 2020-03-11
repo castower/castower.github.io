@@ -147,7 +147,7 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 
 <h2> Data </h2>
 
-<p markdown="1">Now that we have our packages installed, the next thing that we need is our dataset. For the purposes of this code-through we are going to be using a dataset of over 5000 movies from IMDB that we will be access from [data.world](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records).</p>
+<p markdown="1">Now that we have our packages installed, the next thing that we need is our dataset. For the purposes of this code-through we are going to be using a dataset of over 5000 movies from IMDB that we will be access from [data.world](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records){:target="_blank" rel="noopener"}.</p>
 
 <p markdown="1">![](/charts/pic1.png)</p>
 
