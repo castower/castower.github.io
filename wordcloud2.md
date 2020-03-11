@@ -147,7 +147,7 @@ If you're all set to go with R and RStudio, then proceed below:  </p>
 
 <h2> Data </h2>
 
-<p markdown="1">Now that we have our packages installed, the next thing that we need is our dataset. For the purposes of this code-through we are going to be using a dataset of over 5000 movies from IMDB that we will be access from [data.world](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records){:target="_blank" rel="noopener"}.</p>
+<p markdown="1">Now that we have our packages installed, the next thing that we need is our dataset. For the purposes of this code-through we are going to be using a dataset of over 5000 movies from IMDB that we will access from [data.world](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records){:target="_blank" rel="noopener"}.</p>
 
 <p markdown="1">![](/charts/pic1.png)</p>
 
@@ -1373,21 +1373,21 @@ Now we create a new color pallete and just like that we have a second word cloud
 
 Now that you have created your first wordcloud, I encourage you to try out the features and give it a try yourself! The following links contain tutorials and resources to guide you each step of the way:
 
-* [Create a word cloud with r](https://towardsdatascience.com/create-a-word-cloud-with-r-bde3e7422e8a) This tutorial from 'towards data science' by Celine Van den Rul served as the inspiration for this code-through and includes great step-by-step details on all of the features of `wordcloud2()` as well as its more basic predecessor `wordcloud()`. Both packages have unique benefits!
+* [Create a word cloud with r](https://towardsdatascience.com/create-a-word-cloud-with-r-bde3e7422e8a){:target="_blank" rel="noopener"} This tutorial from 'towards data science' by Celine Van den Rul served as the inspiration for this code-through and includes great step-by-step details on all of the features of `wordcloud2()` as well as its more basic predecessor `wordcloud()`. Both packages have unique benefits!
 
-* [Wordcloud](https://analyticstraining.com/how-to-create-a-word-cloud-in-r/) 
+* [Wordcloud](https://analyticstraining.com/how-to-create-a-word-cloud-in-r/){:target="_blank" rel="noopener"} 
 This article focuses on the first `wordcloud()` and has lots of great insight.
 
-* [R Graph Gallery: Wordcloud2](https://www.r-graph-gallery.com/196-the-wordcloud2-library.html)
+* [R Graph Gallery: Wordcloud2](https://www.r-graph-gallery.com/196-the-wordcloud2-library.html){:target="_blank" rel="noopener"}
 The R Graph Gallery has excellent tutorials on various data visualization strategies in R and is a wonderful guide for Wordcloud2.
 
-* CRAN also has wonderful resources for `WordCloud2()` available for view [here](https://cran.r-project.org/web/packages/wordcloud2/wordcloud2.pdf) in PDF form and [here](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html) in website form.
+* CRAN also has wonderful resources for `WordCloud2()` available for view [here](https://cran.r-project.org/web/packages/wordcloud2/wordcloud2.pdf){:target="_blank" rel="noopener"} in PDF form and [here](https://cran.r-project.org/web/packages/wordcloud2/vignettes/wordcloud.html){:target="_blank" rel="noopener"} in website form.
 
-* [Webshot](https://cran.r-project.org/web/packages/webshot/webshot.pdf) is a neat package that allows us to create static saved images of the ever-changing word clouds that we create.
+* [Webshot](https://cran.r-project.org/web/packages/webshot/webshot.pdf){:target="_blank" rel="noopener"} is a neat package that allows us to create static saved images of the ever-changing word clouds that we create.
 
-* [Coolors](https://coolors.co/) is a great site to find colors for your word cloud palettes.
+* [Coolors](https://coolors.co/){:target="_blank" rel="noopener"} is a great site to find colors for your word cloud palettes.
 
-* Last, but certainly not least, [Data.World](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records) is an excellent place to find data on just about any subject and the pre-configured R URL download links are especially helpful! 
+* Last, but certainly not least, [Data.World](https://data.world/studentoflife/imdb-top-250-lists-and-5000-or-so-data-records){:target="_blank" rel="noopener"} is an excellent place to find data on just about any subject and the pre-configured R URL download links are especially helpful! 
 
 ---
 
