@@ -6,7 +6,7 @@ bigimg: /img/aboutmebanner2.png
 
 <h3> Hello! </h3>
 
-My name is Courtney Stowers and I am a graduate student studying [Program Evaluation and Data Analytics](https://ds4ps.org/ms-prog-eval-data-analytics/) at Arizona State University. Throughout the program, I have learned how to visualize and wrangle data related to a variety of public policy issues such as [community analytics and gentrification](https://rpubs.com/castower/sacneighborhoodchange), [child well-being](https://public.tableau.com/views/HED607HouseholdIncomeandChildWell-Being/Presentation?:display_count=y&:origin=viz_share_link), [global inequality](https://castower.shinyapps.io/Code-Through-Project-Stowers/#section-introduction), and worked on a team project to evaluate the [effectiveness of tax credit programs](https://r-class.github.io/cpp-528-spr-2020-group-02/).
+My name is Courtney Stowers and I am a graduate student studying [Program Evaluation and Data Analytics](https://ds4ps.org/ms-prog-eval-data-analytics/) at Arizona State University. Throughout the program, I have learned how to visualize and wrangle data related to a variety of public policy issues such as [community analytics and gentrification](https://rpubs.com/castower/sacneighborhoodchange), [child well-being](https://public.tableau.com/views/HED607HouseholdIncomeandChildWell-Being/Presentation?:display_count=y&:origin=viz_share_link) and [global inequality](https://castower.shinyapps.io/Code-Through-Project-Stowers/#section-introduction). I also worked on a team project to evaluate the [effectiveness of tax credit programs](https://r-class.github.io/cpp-528-spr-2020-group-02/).
 
 <h3> Hobbies: </h3>
 
