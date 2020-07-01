@@ -22,7 +22,7 @@ title: "Courtney Stowers"
 navbar-links:
   Home: "https://castower.github.io/"
   About Me: "aboutme"
-  Resume: "https://castower.github.io/CV/"
+  CV: "https://castower.github.io/CV/"
  # Table Demo: "table-demo"
   Code-Throughs and Projects: 
     - Wordclouds: "wordcloud2"
