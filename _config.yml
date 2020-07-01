@@ -24,8 +24,9 @@ navbar-links:
   About Me: "aboutme"
   Resume: "https://castower.github.io/CV/"
  # Table Demo: "table-demo"
-  Code-Throughs: 
+  Code-Throughs and Projects: 
     - Wordclouds: "wordcloud2"
+    - Tax Credit Evaluation: "https://r-class.github.io/cpp-528-spr-2020-group-02/"
  # Resources:
   #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
